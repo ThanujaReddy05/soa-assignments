@@ -1,0 +1,7 @@
+com\cooksys\Soa\entity\Location.class
+com\cooksys\Soa\entity\Interest.class
+com\cooksys\Soa\dao\PersonDao.class
+com\cooksys\Soa\App.class
+com\cooksys\Soa\dao\LocationDao.class
+com\cooksys\Soa\entity\Person.class
+com\cooksys\Soa\dao\InterestDao.class
